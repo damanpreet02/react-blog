@@ -1,0 +1,19 @@
+.post2{
+    display: grid;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+.post2 img:hover{
+    transform: scale(0.8);
+    transition: transform ease;
+    transition-duration: 0.7s;
+}
+.post2 h2{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

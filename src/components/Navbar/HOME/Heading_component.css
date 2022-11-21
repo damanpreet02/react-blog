@@ -1,0 +1,13 @@
+.head1 h2{
+    font-size: 35px;
+  font-family: Montserrat;
+  font-weight: lighter;
+}
+.hr_ {
+    margin-left: 10px;
+    margin-right: 25px;
+    margin-top: 0;
+    height: 2px;
+    width: 75px;
+    background-color: #f08080;
+  }

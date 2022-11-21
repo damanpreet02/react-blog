@@ -1,0 +1,58 @@
+/* IMAGE SECTION */
+.maindiv {
+  display: inline-flex;
+  margin-left: 130px;
+  padding-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+img {
+  border-radius: 9px;
+}
+.img1 {
+  width: 650px;
+  height: 500px;
+  margin-top: 20px;
+}
+.imgdiv {
+  margin-top: 20px;
+  margin-left: 10px;
+  display: grid;
+}
+
+.img2 {
+  width: 450px;
+  height: 248px;
+}
+
+/* LATEST SECTION */
+
+.Latest {
+  margin-top: 20px;
+  margin-left: 130px;
+}
+
+.latest_grid_row {
+  display: grid;
+  grid-template-columns: repeat(3, 33%);
+}
+
+/* ARTICLE SECTION */
+.art_post{
+  display: grid;
+  grid-template-columns: repeat(2,50%);
+}
+.article {
+  margin-top: 80px;
+  margin-left: 130px;
+}
+
+.art2{
+  display: grid;
+}
+/* POST SECTION */
+.post{
+  margin-top: 80px;
+  margin-left: 60px;
+}

@@ -1,0 +1,13 @@
+.post2{
+    display: grid;
+    margin-top: 20px;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+.post2 h2{
+    font-size: 25px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
